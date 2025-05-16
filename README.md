@@ -66,6 +66,9 @@ public enum NetworkError: Error {
 }
 ```
 
+## 🚀 Example Usage
+See more details: https://github.com/khoavd-dev/NetworkManagerExample
+
 ## 📱 Platform
 - Swift 5.0+
 - iOS 15.0+
